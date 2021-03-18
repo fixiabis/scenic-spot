@@ -56,7 +56,7 @@ serve -p 3000
 
 ## 預覽
 
-https://fixiabis.github.io/scenic-spot
+https://fixiabis.github.io/scenic-spot/out
 
 ## 說明
 
